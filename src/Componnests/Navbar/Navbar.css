@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* background-color: rgb(136, 134, 134); */
+}
+
+
+.head{
+    text-align: center;
+    font-weight: 600;
+    color: yellow;
+    background-color: rgb(36, 35, 35);
+    height: 80px;
+    padding-top: 20px;
+}

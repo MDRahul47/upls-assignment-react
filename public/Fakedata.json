@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "img": "http://wiki.factsider.com/wp-content/uploads/2022/09/ritu-chakma-271x300.png",
+        "name": "Ritu Porna Chakma",
+        "age":"21",
+	    "star":5,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    },
+    {
+        "id": 2,
+        "img": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2022/09/24/krishna_rani.jpg?itok=9014FJze",
+        "name": "Krishna Rani Sarkar",
+        "age":"20",
+	    "star":3.9,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    },
+    {
+        "id": 3,
+        "img": "https://new-media.dhakatribune.com/en/uploads/2022/09/21/mosammat-sirat-jahan-shopna.jpeg",
+        "name": "Sirat Jahan Shopna",
+        "age":"23",
+	    "star":4.3,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    },
+    {
+        "id": 4,
+        "img": "https://eng-media.dhakatribune.com/?width=476&height=249&cropratio=16:9&quality=100&image=/uploads/2020/06/c73f5314fcc5b96b6663efcd258383db-5eec87862488c-1592582905343.jpg",
+        "name": "Lamiya",
+        "age":"33",
+	    "star":5,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    },
+    {
+        "id": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93y6mJaMncsHAyC_M1eGhJWClXp09qbE5wkNqMMM35w06WQj0mWYkNuJ29gMUqJFDC9Q&usqp=CAU",
+        "name": "Sabina Khatun (captain)",
+        "age":"18",
+	    "star":2.0,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    },
+    {
+        "id": 6,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR93y6mJaMncsHAyC_M1eGhJWClXp09qbE5wkNqMMM35w06WQj0mWYkNuJ29gMUqJFDC9Q&usqp=CAU",
+        "name": "Runa islam",
+        "age":"22",
+	    "star":1,
+      	"Details": "She is now a National Crush Footerballer.She is a strong woman.Powerful Girls come from Powerful Area and she is from Narayanjong remember the name."
+    }
+]
